@@ -15,7 +15,11 @@ namespace IKMAssessment
             //new ActionHandler().Init();
 
             //StringBuilderNullRef
-            new StringBuilderNullRef().Init();
+            //new StringBuilderNullRef().Init();
+
+            //StringBuilderExample
+            new StringBuilderExample().Init();
+
             Console.ReadLine();
         }
     }
