@@ -18,7 +18,10 @@ namespace IKMAssessment
             //new StringBuilderNullRef().Init();
 
             //StringBuilderExample
-            new StringBuilderExample().Init();
+            //new StringBuilderExample().Init();
+
+            //Array output
+            ArrayOutput.Init();
 
             Console.ReadLine();
         }

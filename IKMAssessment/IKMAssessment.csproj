@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CSharp\ActionHandler.cs" />
+    <Compile Include="CSharp\ArrayOutput.cs" />
     <Compile Include="CSharp\StringBuilderExample.cs" />
     <Compile Include="CSharp\StringBuilderNullRef.cs" />
     <Compile Include="Program.cs" />
