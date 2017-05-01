@@ -21,7 +21,23 @@ namespace IKMAssessment
             //new StringBuilderExample().Init();
 
             //Array output
-            ArrayOutput.Init();
+            //ArrayOutput.Init();
+
+            //String invariant
+            //StringInvariant.Init();
+
+            //Static access
+            //StaticMethodAccess.Init();
+
+            //Dynamic variable type
+            //DynamicKeyword.Init();
+
+            //String output
+            //StringOutput.Init();
+            StringOutput.Init("33");
+
+            //Increment output
+            //IncrementOperator.Init();
 
             Console.ReadLine();
         }
